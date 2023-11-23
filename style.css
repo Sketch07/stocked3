@@ -1,0 +1,76 @@
+body {background-color:white;}
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+#navbar{
+    height: 80px;
+    background-color: #FF5B22;
+}
+#logo{
+    font-size: 75px;
+    color:#FECDA6;
+    margin-right: 600px;
+}
+#home{
+    color:white;
+        font-size: 35px;
+        margin-right: 25px;
+}
+#module{color:white;
+    font-size: 35px;
+    margin-right: 25px;
+}
+#jounier{color:white;
+    font-size:35px ;
+    margin-right:25px ;
+}
+#conus{color:white;
+    font-size:35px ;
+    margin-right:25px ;
+
+}
+
+#one_one{
+    color: #FF9130;
+    font-size: 80px;
+    margin-left: 60px;
+    margin-up: 100opx;
+    
+
+}
+#one_two{
+    color: #FF9130;
+    font-size: 55px;
+    margin-left: 60px;
+
+}
+#one_three{
+    color: #FF9130;
+    font-size: 30px;
+    margin-left: 55px;
+    width: 800px;
+    
+
+}
+#imgg{
+    position: absolute;
+    nav-down: 20px;
+    margin-left: 900px;
+    height: 40;
+}
+#stockwid{
+    height: 500px;
+    width: 880px;
+    display: flex;
+}
+
+#stockwidtwo{
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    margin-left: 1000px;
+    nav-down: 800px;
+}
